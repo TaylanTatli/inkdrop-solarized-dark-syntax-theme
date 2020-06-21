@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "solarized-dark-syntax",
-  "description": "Solarlized Dark",
+  "name": "dracula-syntax",
+  "description": "Dracula",
   "version": "0.1.0",
   "theme": "syntax",
-  "styleSheets": ["solarized.less"],
+  "styleSheets": ["dracula.less"],
   "engines": {
     "inkdrop": "^4.x"
   }
