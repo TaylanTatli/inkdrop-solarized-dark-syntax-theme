@@ -1,11 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "0.2.0",
   "name": "dracula-syntax",
   "description": "Dracula",
-  "version": "0.1.0",
   "theme": "syntax",
   "repository": "https://github.com/TaylanTatli/inkdrop-dracula-syntax-theme",
-  "styleSheets": ["dracula.less"],
+  "styleSheets": [
+    "dracula.less"
+  ],
   "engines": {
     "inkdrop": "^4.x"
   }
